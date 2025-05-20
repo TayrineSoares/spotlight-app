@@ -1,4 +1,4 @@
-// THIS FILE REDIRECTS THE USER TO THE FEED 
+// THIS FILE REDIRECTS THE USER TO THE TABS FOLDER
 import { Redirect } from "expo-router"
 
 
