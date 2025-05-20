@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function Notifications() {
+export default function create() {
   return (
     <View>
-      <Text>Notifications screen </Text>
+      <Text>create</Text>
     </View>
   )
 }

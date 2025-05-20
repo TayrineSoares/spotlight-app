@@ -1,5 +1,5 @@
 import { View } from "react-native";
-import { styles } from '../styles/auth.style';
+import { styles } from '../../styles/auth.style';
 
 // import link from expo router 
 import { Link } from "expo-router";
